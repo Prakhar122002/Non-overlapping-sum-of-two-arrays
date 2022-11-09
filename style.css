@@ -1,0 +1,48 @@
+body {
+  margin-left: 20px;
+  background-color: rgb(66, 9, 127);
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+button {
+  position: relative;
+  bottom: 20px;
+  left: 270px;
+  margin-left: 220px;
+  font-size: 110%;
+  background-color: rgb(5, 114, 119);
+  color: #131313;
+  padding: 15px;
+  box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.5);
+}
+
+label {
+  width: 200px;
+  display: inline-block;
+}
+form {
+  padding: 3%;
+}
+input {
+  height: 15px;
+  padding: 15px;
+}
+
+label {
+  font-size: 25px;
+}
+
+u {
+  color: rgb(146, 152, 152);
+
+}
+
+h1 {
+  color: beige
+}
+#output {
+  position: relative;
+  bottom: 80px;
+}
